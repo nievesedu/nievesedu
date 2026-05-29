@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Oscar Nieves🌟</h1>
+<h1 align="center">Hi <img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/>, I'm Oscar Nieves🌟</h1>
 <h3 align="center">💻 IT Engineer passionate about Data Analysis, Python, SQL, and Machine Learning.</h3>
 <br>
 <p align="center">
