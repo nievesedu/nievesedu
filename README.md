@@ -1,3 +1,3 @@
-<h1 align="center">Hola 👋, Soy Oscar Nieves🌟</h1>
-<h3 align="center">Ingeniero en TI - Docente.</h3>
+<h1 align="center">Hi 👋, I'm Oscar Nieves🌟</h1>
+<h3 align="center">💻 IT Engineer passionate about Data Analysis, Python, SQL, and Machine Learning.</h3>
 <br>
