@@ -2,9 +2,7 @@
 <h3 align="center">💻 IT Engineer passionate about Data Analysis, Python, SQL, and Machine Learning.</h3>
 <br>
 
-
-
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=26&duration=5000&lines=IT+Engineer" > 
+<img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&lines=IT+Engineer" > 
 </p>
 
