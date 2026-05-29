@@ -5,6 +5,6 @@
 
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=26&duration=15000&lines=IT+Engineer+|+SQL+|+Data+Analist" > 
+<img src="https://readme-typing-svg.herokuapp.com?size=26&duration=15000&lines=IT+Engineer+|+SQL+|+Data+Analist+" > 
 </p>
 
